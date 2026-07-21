@@ -1,4 +1,4 @@
----
+somnang---
 manufacturer:
     - huawei
 
